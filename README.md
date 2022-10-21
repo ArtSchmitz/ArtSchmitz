@@ -1,5 +1,5 @@
 ## Olá! eu sou o Arthur 🤙
-#
+
 ![ArtSchm22 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtSchm22&anuraghazra&show_icons=true&theme=cobalt)
 #
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
