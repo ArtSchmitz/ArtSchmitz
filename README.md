@@ -1,7 +1,8 @@
 ## Olá! eu sou o Arthur 🤙
 
 [![ArtSchmitz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArtSchmitz&anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtSchmitz&anuraghazra&langs_count=8&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtSchmitz&anuraghazra&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
