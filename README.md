@@ -1,6 +1,6 @@
 <h2 align="left">Hi, my name is Arthur 🤙</h2>
 <div>
-  <p>I am a Web developer at <a href="https://www.liveoficial.com.br/">LIVE!</a>, where I develop and maintain e-commerce and other projects. Currently, I am studying Systems Analysis and Development at <a href="https://unisenaisc.com.br/">UniSenai</a>.</p>
+  <p>I am a Software Developer at <a href="https://www.liveoficial.com.br/">LIVE!</a>, where I develop and maintain e-commerce and other projects. Currently, I am studying Systems Analysis and Development at <a href="https://unisenaisc.com.br/">UniSenai</a>.</p>
 </div>
 
 #
@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1) 
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=0064a5) 
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
