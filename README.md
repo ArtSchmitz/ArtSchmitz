@@ -1,6 +1,6 @@
 <h2 align="left">Hi, my name is Arthur 🤙</h2>
 <div>
-  <p>I am a Software Developer at <a href="https://www.liveoficial.com.br/">LIVE!</a>, where I develop and maintain e-commerce and other projects. Currently, I am studying Systems Analysis and Development at <a href="https://unisenaisc.com.br/">UniSenai</a>.</p>
+  <p>I am a Software Developer at <a href="https://www.liveoficial.com.br/">LIVE!</a>, where I develop and maintain e-commerce and other projects. I have a higher education degree in Systems     Analysis and Development and a technical degree in Systems Development.</p>
 </div>
 
 #
