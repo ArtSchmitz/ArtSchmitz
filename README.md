@@ -3,7 +3,6 @@
   <p>I am a Software Developer at <a href="https://www.liveoficial.com.br/">LIVE!</a>, where I develop and maintain e-commerce and other projects. I have a higher education degree in Systems     Analysis and Development and a technical degree in Systems Development.</p>
 </div>
 
-#
 <h2>Tools:</h2>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
