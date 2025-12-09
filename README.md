@@ -4,9 +4,6 @@
 </div>
 
 #
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtSchmitz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 <h2>Tools:</h2>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
